@@ -1,4 +1,4 @@
-package step1;
+package test.checkout.counter.step1;
 
 import org.junit.Before;
 

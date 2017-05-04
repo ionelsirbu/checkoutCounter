@@ -1,4 +1,4 @@
-package step1;
+package test.checkout.counter.step1;
 
 public class Apple implements Item {
     @Override

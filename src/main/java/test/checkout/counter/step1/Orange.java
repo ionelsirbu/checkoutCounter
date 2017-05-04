@@ -1,11 +1,6 @@
-package step2;
+package test.checkout.counter.step1;
 
 public class Orange implements Item {
-    @Override
-    public Integer getUid() {
-        return 5678;
-    }
-
     @Override
     public double getPrice() {
         return 0.25;

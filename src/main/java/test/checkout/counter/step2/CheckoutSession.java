@@ -1,4 +1,4 @@
-package step2;
+package test.checkout.counter.step2;
 
 import java.util.List;
 import java.util.Map;
